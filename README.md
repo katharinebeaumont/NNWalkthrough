@@ -6,18 +6,28 @@
 
 [Tensorflow playground with linear neuron, and dataset 2](http://playground.tensorflow.org/#activation=linear&batchSize=10&dataset=gauss&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.97673&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=regression&initZero=false&hideText=false)
 
-
-
 # Part II: Learning
 
-## Code example
+## Back propagation
 
-What library were you using? [Skikit Learn](http://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPRegressor.html)
+[Learn more](http://neuralnetworksanddeeplearning.com/chap2.html)
 
-What was the 'solver'? It didn't look like gradient descent (it wasn't): [L-BFGS](https://en.wikipedia.org/wiki/Limited-memory_BFGS)
+## Gradient Descent derivation
 
+[Learn more](http://mccormickml.com/2014/03/04/gradient-descent-derivation/)
 
+## Optimisation
+
+[Learn more](https://medium.com/towards-data-science/types-of-optimization-algorithms-used-in-neural-networks-and-ways-to-optimize-gradient-95ae5d39529f)
 
 # Part III: In a network
 
+#CNNS
+
+[Learn more](http://cs231n.github.io/convolutional-networks)
+
 Convolutional Neural Network [visualisation](http://scs.ryerson.ca/~aharley/vis/conv/)
+
+#RNNS
+
+[Learn more](https://deeplearning4j.org/lstm.html)
