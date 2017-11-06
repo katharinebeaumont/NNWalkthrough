@@ -22,12 +22,14 @@
 
 # Part III: In a network
 
-#CNNS
+# CNNS
 
 [Learn more](http://cs231n.github.io/convolutional-networks)
 
 Convolutional Neural Network [visualisation](http://scs.ryerson.ca/~aharley/vis/conv/)
 
-#RNNS
+# RNNS
 
 [Learn more](https://deeplearning4j.org/lstm.html)
+
+[Making music](http://www.hexahedria.com/2015/08/03/composing-music-with-recurrent-neural-networks/)
